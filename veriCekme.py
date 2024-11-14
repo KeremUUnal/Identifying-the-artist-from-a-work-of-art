@@ -8,7 +8,7 @@ from io import BytesIO
 import time
 
 # WebDriver için PATH oluşturur
-PATH = "C:\\Users\\kerem\\Desktop\\YapayZeka\\edgedriver_win64\\msedgedriver.exe"
+PATH = "\\edgedriver_win64\\msedgedriver.exe"
 
 # Edge WebDriver'ı başlatmak için Service kullanır
 service = Service(PATH)
