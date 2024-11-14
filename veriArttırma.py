@@ -3,8 +3,8 @@ from PIL import Image
 import numpy as np
 import os
 
-gorsel_yol = 'E:/sanatçılar/512picasso'
-kayit_yol = 'E:/sanatçılar/512picasso5'
+gorsel_yol = 'Görsellerin kayıtlı olduğu dosya yolu'
+kayit_yol = 'Arttılırmış görüntülerin kaydedileceği dosya yolu'
 
 augmentation = imgment.Sequential([
         imgment.Affine(
