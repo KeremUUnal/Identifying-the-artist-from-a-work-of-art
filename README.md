@@ -11,4 +11,5 @@ Kullanılan kütüphaneler: Pillow(Image), numpy, imgaug(augmenters),selenium ve
 Kodların çalışması için gerekli kütüphaneler indirilmeli
 veriCekme ve selenium_veritopla kodlarında gidilecek sitenin url'si girilmeli ve indirilecek klasör bilgileri kodun üstünde değiştirilmelidir. 
 cozunurluk kısmında klasör bilgileri ve istenilen cozunurluk kodun üstünde değiştirilmelidir.
-
+Görüntülerin bulunduğğu drive linki:
+https://drive.google.com/drive/folders/1KMNpIQ-g7FfmpX2NEQwva1Rf39VPX39E
