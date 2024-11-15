@@ -52,3 +52,4 @@ for gorsel in gorseller:
         print("Hata -> ", e)
 time.sleep(3)
 driver.quit()
+#Veri çekme işlemlerinin kullanımı dökümantasyonlar ve tech with tim adlı youtube kanalı üzerinden yapılmıştır.
