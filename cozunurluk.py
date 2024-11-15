@@ -19,3 +19,4 @@ for dosya in os.listdir(ornek_dosya):
                 print(f'Dönüştürüldü: {dosya} -> {yeniresim_yolu}')
         except Exception as e:
             print(f'Hata: {dosya} - {e}')
+            #https://pillow.readthedocs.io/en/stable/reference/Image.html
