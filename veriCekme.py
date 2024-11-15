@@ -13,6 +13,7 @@ PATH = "\\edgedriver_win64\\msedgedriver.exe"
 # Edge WebDriver'ı başlatmak için Service kullanır
 service = Service(PATH)
 wd = webdriver.Edge(service=service)
+#PATH ve webdriver için olan bilgiler tech with tim kanalından alınmıştır. 
 
 
 url = 'https://claudemonetgallery.org/the-complete-works.html?ps=96'
@@ -25,7 +26,7 @@ os.makedirs(od, exist_ok=True)
 
 # Listeleyerek önceki görüntüleri takip eder
 downloaded_images = os.listdir(od)  
-
+#İnternetten alınmıştır. 
 
 sayfa_no = 1
 downloaded_count = 0
