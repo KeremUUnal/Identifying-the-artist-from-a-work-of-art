@@ -1,5 +1,5 @@
 # Identifying-the-artist-from-a-work-of-art
-data collection and augment
+
 Projemizin amacı resimlerin hangi sanatçıya ait olduğunu bulan bir yapay zeka yapmak.
 Bunun için 10 tane sanatçı seçtik.
 selenium_veritopla, veriCekme kodları resimleri internet ortamından çekmek için kullandığımız kodlardır.
