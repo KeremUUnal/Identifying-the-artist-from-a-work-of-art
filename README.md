@@ -13,3 +13,12 @@ veriCekme ve selenium_veritopla kodlarında gidilecek sitenin url'si girilmeli v
 cozunurluk kısmında klasör bilgileri ve istenilen cozunurluk kodun üstünde değiştirilmelidir.
 Görüntülerin bulunduğğu drive linki:
 https://drive.google.com/drive/folders/1KMNpIQ-g7FfmpX2NEQwva1Rf39VPX39E
+
+Bu proje, on farklı sanatçının 50.000'den fazla eserinden oluşan geniş bir veri setini analiz ederek, bir sanat eserinin hangi sanatçıya ait olduğunu yüksek doğrulukla belirleyebilecek bir yapay zeka modeli geliştirmeyi amaçlamaktadır. 
+Sanat dünyasında, eserlerin doğru şekilde sınıflandırılması ve sanatçılara özgü tarzların analiz edilmesi hem kültürel hem de akademik anlamda büyük bir öneme sahiptir. 
+
+Projede, derin öğrenme tabanlı transformer modelleri kullanılarak modern yapay zeka tekniklerinden faydalanılacaktır Farklı transformer modelleriyle karşılaştırmalı analiz yapılacak ve her bir modelin performansı değerlendirilecektir. 
+Veri seti, sanatçılara ait eserlerin görsel özelliklerini doğru şekilde algılayabilmesi için veri artırma ve boyutlandırma teknikleriyle optimize edilmiştir. 
+
+Proje süresince, Google Colab platformunun ücretsiz GPU olanakları kullanılarak ortak bir eğitim süreci yürütülmekte olup, model geliştirme süreci, optimize edilmiş bir eğitim stratejisiyle desteklenmektedir. 
+Nihai hedefimiz, hem akademik hem de endüstriyel kullanım için etkili bir yapay zeka sınıflandırma çözümü geliştirmek ve sanat eserlerinin analizine yönelik inovatif bir yaklaşım sunmaktır. 
