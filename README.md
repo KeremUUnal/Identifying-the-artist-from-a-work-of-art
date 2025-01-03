@@ -23,3 +23,9 @@ Veri seti, sanatçılara ait eserlerin görsel özelliklerini doğru şekilde al
 Proje süresince, Google Colab platformunun ücretsiz GPU olanakları kullanılarak ortak bir eğitim süreci yürütülmekte olup, model geliştirme süreci, optimize edilmiş bir eğitim stratejisiyle desteklenmektedir. 
 Nihai hedefimiz, hem akademik hem de endüstriyel kullanım için etkili bir yapay zeka sınıflandırma çözümü geliştirmek ve sanat eserlerinin analizine yönelik inovatif bir yaklaşım sunmaktır. 
 ![matris](https://github.com/user-attachments/assets/1f9c87a3-0e2d-46d7-8ce1-b6ffec14c803)
+
+
+Görüntü Testi Arayüzü:
+![son](https://github.com/user-attachments/assets/166eae72-a03e-4ce9-828d-54e8ed737383)
+
+
